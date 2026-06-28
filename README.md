@@ -1,6 +1,6 @@
 # codex-reset-credits-skill
 
-[Simplified Chinese](README.zh-CN.md)
+[简体中文](README.zh-CN.md)
 
 `codex-reset-credits-skill` packages a Codex Skill named `codex-reset-credits`.
 
