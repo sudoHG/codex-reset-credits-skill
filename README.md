@@ -1,6 +1,6 @@
 # codex-reset-credits-skill
 
-[简体中文](README.zh-CN.md)
+[Simplified Chinese](README.zh-CN.md)
 
 `codex-reset-credits-skill` packages a Codex Skill named `codex-reset-credits`.
 
@@ -19,7 +19,7 @@ https://github.com/sudoHG/codex-reset-credits-skill/blob/main/USE_WITH_CODEX.md
 Then ask:
 
 ```text
-帮我查询 Codex 重置次数和到期时间
+Check my Codex reset credits and expiration times.
 ```
 
 Codex should read the runbook, run the script locally, and return a clean summary table.
@@ -36,7 +36,7 @@ cp -R codex-reset-credits "${CODEX_HOME:-$HOME/.codex}/skills/codex-reset-credit
 Restart Codex or open a new Codex session. Then ask:
 
 ```text
-帮我查一下 Codex 重置机会还有几个，什么时候过期
+Check how many Codex reset credits I have left and when they expire.
 ```
 
 ## Direct CLI
