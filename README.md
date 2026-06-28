@@ -1,5 +1,7 @@
 # codex-reset-credits-skill
 
+[简体中文](README.zh-CN.md)
+
 `codex-reset-credits-skill` packages a Codex Skill named `codex-reset-credits`.
 
 It lets Codex query banked Codex reset credits from the local Codex Desktop login state and report available count plus expiration times. The query is local-first and read-only: it reads `${CODEX_HOME:-~/.codex}/auth.json`, calls the ChatGPT backend reset-credit endpoint, and prints only sanitized output.
