@@ -1,5 +1,9 @@
 # codex-reset-credits-skill
 
+<p align="center">
+  <img src="https://count.getloli.com/@sudoHG-codex-reset-credits-skill?theme=3d-num" alt="sudoHG-codex-reset-credits-skill visitor counter">
+</p>
+
 [简体中文](README.zh-CN.md)
 
 `codex-reset-credits-skill` packages a Codex Skill named `codex-reset-credits`.
